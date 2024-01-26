@@ -10,5 +10,5 @@
 
 ---
 
-![all](images/all.svg)
+![all](images/all.excalidraw.svg)
 
